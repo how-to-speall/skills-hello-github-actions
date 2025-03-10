@@ -5,6 +5,7 @@
 _Create and run a GitHub Actions workflow._
 
 </header>
+:joy:
 
 ## Step 5: Trigger the workflow
 
